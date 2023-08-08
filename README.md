@@ -52,3 +52,5 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psychbruce&show_icons=true&locale=en&hide=prs,issues&theme=tokyonight&rank_icon=percentile)](https://github.com/psychbruce)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychbruce&theme=tokyonight)](https://github.com/psychbruce)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=psychbruce/bruceR,psychbruce/ChineseNames,psychbruce/drawMap,psychbruce/NgramTools,psychbruce/PsychWordVec,psychbruce/FMAT,psychbruce/jspsych,psychbruce/stats&type=Date)](https://star-history.com)
