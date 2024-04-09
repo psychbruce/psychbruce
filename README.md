@@ -35,14 +35,14 @@
 [![](https://img.shields.io/github/stars/psychbruce/NgramTools?style=social)](https://github.com/psychbruce/NgramTools)
 
 <p>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/r.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/python.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/html.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/css.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/javascript.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/matlab.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/git.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/markdown.png">
 </p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psychbruce&show_icons=true&locale=en&hide=prs,issues&theme=tokyonight&rank_icon=percentile)](https://github.com/psychbruce)
