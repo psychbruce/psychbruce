@@ -26,6 +26,11 @@
 [![](https://cranlogs.r-pkg.org/badges/grand-total/FMAT)](https://cranlogs.r-pkg.org/downloads/daily/last-month/FMAT)
 [![](https://img.shields.io/github/stars/psychbruce/FMAT?style=social)](https://github.com/psychbruce/FMAT)
 
+[![](https://img.shields.io/badge/R_package-DPI-purple)](https://psychbruce.github.io/DPI/)
+[![](https://www.r-pkg.org/badges/version/DPI?color=blue)](https://CRAN.R-project.org/package=DPI)
+[![](https://cranlogs.r-pkg.org/badges/grand-total/DPI)](https://cranlogs.r-pkg.org/downloads/daily/last-month/DPI)
+[![](https://img.shields.io/github/stars/psychbruce/DPI?style=social)](https://github.com/psychbruce/DPI)
+
 [![](https://img.shields.io/badge/R_package-drawMap-purple)](https://github.com/psychbruce/drawMap)
 [![](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=blue)](https://github.com/psychbruce/drawMap)
 [![](https://img.shields.io/github/stars/psychbruce/drawMap?style=social)](https://github.com/psychbruce/drawMap)
@@ -50,6 +55,5 @@
 <!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=psychbruce&show_icons=true&layout=compact&theme=holi&exclude_repo=psychbruce.github.io,stats)](https://github.com/psychbruce)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychbruce&theme=tokyonight)](https://github.com/psychbruce)
--->
-
 [![Star History Chart](https://api.star-history.com/svg?repos=psychbruce/bruceR,psychbruce/ChineseNames,psychbruce/drawMap,psychbruce/NgramTools,psychbruce/PsychWordVec,psychbruce/FMAT,psychbruce/jspsych,psychbruce/stats&type=Date)](https://api.star-history.com/svg?repos=psychbruce/bruceR,psychbruce/ChineseNames,psychbruce/drawMap,psychbruce/NgramTools,psychbruce/PsychWordVec,psychbruce/FMAT,psychbruce/jspsych,psychbruce/stats&type=Date)
+-->
