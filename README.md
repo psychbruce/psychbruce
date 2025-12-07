@@ -39,6 +39,9 @@
 [![](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=blue)](https://github.com/psychbruce/NgramTools)
 [![](https://img.shields.io/github/stars/psychbruce/NgramTools?style=social)](https://github.com/psychbruce/NgramTools)
 
+[![](https://img.shields.io/badge/Doc-R_Course_Tutorials-purple)](https://psychbruce.github.io/RCourse/)
+[![](https://img.shields.io/github/stars/psychbruce/RCourse?style=social)](https://github.com/psychbruce/RCourse)
+
 <p>
 <img height="40" src="https://psychbruce.github.io/img/raw-github/r.png">
 <img height="40" src="https://psychbruce.github.io/img/raw-github/python.png">
