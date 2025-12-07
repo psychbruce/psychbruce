@@ -39,7 +39,7 @@
 [![](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=blue)](https://github.com/psychbruce/NgramTools)
 [![](https://img.shields.io/github/stars/psychbruce/NgramTools?style=social)](https://github.com/psychbruce/NgramTools)
 
-[![](https://img.shields.io/badge/Doc-R_Course_Tutorials-purple)](https://psychbruce.github.io/RCourse/)
+[![](https://img.shields.io/badge/Document-R_Course_Tutorials_(Chinese)-purple)](https://psychbruce.github.io/RCourse/)
 [![](https://img.shields.io/github/stars/psychbruce/RCourse?style=social)](https://github.com/psychbruce/RCourse)
 
 <p>
@@ -53,9 +53,8 @@
 <img height="40" src="https://psychbruce.github.io/img/raw-github/markdown.png">
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psychbruce&show_icons=true&locale=en&hide=prs,issues&theme=tokyonight&rank_icon=percentile)](https://github.com/psychbruce)
-
 <!--
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psychbruce&show_icons=true&locale=en&hide=prs,issues&theme=tokyonight&rank_icon=percentile)](https://github.com/psychbruce)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=psychbruce&show_icons=true&layout=compact&theme=holi&exclude_repo=psychbruce.github.io,stats)](https://github.com/psychbruce)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychbruce&theme=tokyonight)](https://github.com/psychbruce)
 [![Star History Chart](https://api.star-history.com/svg?repos=psychbruce/bruceR,psychbruce/ChineseNames,psychbruce/drawMap,psychbruce/NgramTools,psychbruce/PsychWordVec,psychbruce/FMAT,psychbruce/jspsych,psychbruce/stats&type=Date)](https://api.star-history.com/svg?repos=psychbruce/bruceR,psychbruce/ChineseNames,psychbruce/drawMap,psychbruce/NgramTools,psychbruce/PsychWordVec,psychbruce/FMAT,psychbruce/jspsych,psychbruce/stats&type=Date)
