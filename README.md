@@ -39,7 +39,7 @@
 [![](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=blue)](https://github.com/psychbruce/NgramTools)
 [![](https://img.shields.io/github/stars/psychbruce/NgramTools?style=social)](https://github.com/psychbruce/NgramTools)
 
-[![](https://img.shields.io/badge/Document-R_Course_Tutorials_(Chinese)-purple)](https://psychbruce.github.io/RCourse/)
+[![](https://img.shields.io/badge/Tutorial-R_Course_Tutorial_(in_Chinese)-purple)](https://psychbruce.github.io/RCourse/)
 [![](https://img.shields.io/github/stars/psychbruce/RCourse?style=social)](https://github.com/psychbruce/RCourse)
 
 <p>
